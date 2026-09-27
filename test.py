@@ -1,4 +1,4 @@
 if 5+5==10:
-    print("Good")
+    print("Good!")
 else:
-    print("Bed")
+    print("Bed!")
